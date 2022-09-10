@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently learning **Financial Technology**
 
-- 💬 Ask me about **go,c#,c++,databases,operating systems,computer networks,rest,http,grpc,kafka,docker,k8's,git,distributed systems**
+- 💬 Ask me about **go, c#, databases, distributed systems, cs fundamentals**
 
 - 📫 How to reach me **asknirajbhattad@gmail.com**
 
