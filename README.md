@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niraj Bhattad</h1>
-<h3 align="center">A computer science engineer passionate about technology and finance.</h3>
+<h3 align="center">A computer science engineer and a software developer, passionate about technology and finance.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirajbhattad&label=Profile%20views&color=0e75b6&style=flat" alt="nirajbhattad" /> </p>
 
