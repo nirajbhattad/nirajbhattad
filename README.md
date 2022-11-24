@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niraj Bhattad</h1>
 <h3 align="center">A computer science engineer and a software developer, passionate about technology and finance.</h3>
-<p align="center">I have an experience in building distributed systems, scaling to handle millions of users. I have gathered an industry experience of 5+ years and have worked as a senior software developer at <a href="https://in.bookmyshow.com/" target="_blank">BookMyShow</a>, India's largest entertainment ticketing portal.</p>
+<p align="center">I have an experience in building distributed systems, scaling to handle millions of users. I have gathered an industry experience of 5+ years and have previously worked as a senior software developer at <a href="https://in.bookmyshow.com/" target="_blank">BookMyShow</a>, India's largest entertainment ticketing portal.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirajbhattad&label=Profile%20views&color=0e75b6&style=flat" alt="nirajbhattad" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **go, c#, databases, distributed systems, cs fundamentals**
 
-- 📫 How to reach me **asknirajbhattad@gmail.com**
+- 📫 How to reach me **mailnirajbhattad@gmail.com**
 
 - ⚡ Fun fact **Professional Badminton Player**
 
