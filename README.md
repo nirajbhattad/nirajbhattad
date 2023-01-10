@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Niraj Bhattad</h1>
-<h3 align="center">A computer science engineer and a software developer, passionate about technology and finance.</h3>
-<p align="center">I have an experience in building distributed systems, scaling to handle millions of users. I have gathered an industry experience of 5+ years and have previously worked as a senior software developer at <a href="https://in.bookmyshow.com/" target="_blank">BookMyShow</a>, India's largest entertainment ticketing portal.</p>
+<h3 align="center">Welcome to my GitHub profile! </h3> 
+<h3 align="center"> I am a computer science engineer with over 5 years of experience, and I have worked previously as a senior software developer at <a href="https://in.bookmyshow.com/" target="_blank">BookMyShow</a>, India's largest entertainment ticketing portal.</h3>
+
+My primary skills include:
+
+- 🔭 Strong expertise in **Go, C#, .NET Core, and .NET Framework**.
+- 🔭 Proficient in front-end web development technologies such as **HTML, CSS, and JavaScript**.
+- 🔭 Experience with **GraphQL, REST, gRPC, and SOAP** web service protocols.
+- 🔭 Knowledge of various databases such as **Redis, Aerospike, MongoDB, Cassandra, PostgreSQL, SQL, MySQL, and Elastic Search**.
+- 🔭 Experience with **Git, Docker, Kubernetes, Kafka, and RabbitMQ**.
+- 🔭 Strong experience with **AWS services, specifically AWS Lambda**.
+- 🔭 Skilled in **Agile, Scrum, Jira, Confluence, and Swagger**.
+
+**You can find some of my open source projects on this GitHub profile, feel free to check them out and give me a follow if you find my work interesting.**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirajbhattad&label=Profile%20views&color=0e75b6&style=flat" alt="nirajbhattad" /> </p>
 
@@ -15,10 +27,6 @@
 - 📫 How to reach me **mailnirajbhattad@gmail.com**
 
 - ⚡ Fun fact **Professional Badminton Player**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
