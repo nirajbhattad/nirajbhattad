@@ -44,3 +44,5 @@ My primary skills include:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirajbhattad&show_icons=true&locale=en" alt="nirajbhattad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirajbhattad&" alt="nirajbhattad" /></p>
+
+<h3 align="center">Thank you for visiting my profile! </h3>
