@@ -8,8 +8,7 @@ My primary skills include:
 - 🔭 Proficient in front-end web development technologies such as **HTML, CSS, and JavaScript**.
 - 🔭 Experience with **GraphQL, REST, gRPC, and SOAP** web service protocols.
 - 🔭 Knowledge of various databases such as **Redis, Aerospike, MongoDB, Cassandra, PostgreSQL, SQL, MySQL, and Elastic Search**.
-- 🔭 Experience with **Git, Docker, Kubernetes, Kafka, and RabbitMQ**.
-- 🔭 Strong experience with **AWS services**.
+- 🔭 Experience with **AWS services, Git, Docker, Kubernetes, Kafka, and RabbitMQ**.
 - 🔭 Skilled in **Agile, Scrum, Jira, Confluence, and Swagger**.
 
 **You can find some of my open source projects on this GitHub profile, feel free to check them out and give me a follow if you find my work interesting.**
