@@ -4,12 +4,12 @@
 
 My primary skills include:
 
-- 🔭 Expertise in **Go, C#, .NET Core, and .NET Framework**.
+- 🔭 Expertise in **Go, C#, C, C++, Java, Python, .NET Core and .NET Framework**.
 - 🔭 Proficient in front-end web development technologies such as **HTML, CSS, and JavaScript**.
 - 🔭 Experience with **GraphQL, REST, gRPC, and SOAP** web service protocols.
 - 🔭 Knowledge of various databases such as **Redis, Aerospike, MongoDB, Cassandra, PostgreSQL, SQL, MySQL, and Elastic Search**.
-- 🔭 Experience with **AWS services, Git, Docker, Kubernetes, Kafka, and RabbitMQ**.
-- 🔭 Skilled in **Agile, Scrum, Jira, Confluence, and Swagger**.
+- 🔭 Experience with **AWS services, Git, Docker, Kubernetes, Kafka, CI/CD and RabbitMQ**.
+- 🔭 Skilled in **Agile, Scrum, Jira, Confluence, Kanban and Swagger**.
 
 **You can find some of my open source projects on this GitHub profile, feel free to check them out and give me a follow if you find my work interesting.**
 
