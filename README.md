@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niraj Bhattad</h1>
 <h3 align="center">Welcome to my GitHub profile! </h3> 
 <h3 align="center"> I am a computer science engineer with over 5 years of experience, and I have worked previously as a senior software developer at <a href="https://in.bookmyshow.com/" target="_blank">BookMyShow</a>, India's largest entertainment ticketing portal.</h3>
+<h3 align="center">I am currently working as a Full Stack Developer at <a href="https://www.ibigroup.com/" target="_blank">Arcadis-IBI Group</a> </h3> 
 
 My primary skills include:
 
